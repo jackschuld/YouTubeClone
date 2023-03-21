@@ -1,0 +1,12 @@
+iframe {
+    border: none;
+    overflow: hidden;
+}
+
+
+.thumbnail {
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightblue;
+    padding: 10px;
+}

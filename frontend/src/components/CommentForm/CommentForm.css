@@ -1,0 +1,11 @@
+.comment-bar {
+    width: 75%;
+    height: 75px;
+    border-radius: 5px;
+}
+
+.comment-form {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}

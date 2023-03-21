@@ -1,0 +1,7 @@
+.thumbnails {
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    margin: 70px;
+}

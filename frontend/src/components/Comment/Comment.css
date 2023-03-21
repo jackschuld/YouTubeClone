@@ -1,0 +1,17 @@
+.comment {
+    border: 1px groove black;
+    border-radius: 5px;
+    background-color: lightblue;
+    color: black;
+}
+
+.comment > h3 {
+    margin-left: 5px;
+    font-weight: 500;
+}
+
+.comment > p {
+    margin-left: 20px;
+    font-weight: bold;
+}
+
